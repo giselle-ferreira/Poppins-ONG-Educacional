@@ -1,20 +1,17 @@
 
 <h1 align="center">
-    <img alt="FCalendar" src="https://i.postimg.cc/rF9byWQm/fcalendar-banner-readme.png" />
+    <img alt="FCalendar" src="#" />
 </h1>
 
 <br>
 
 
 <p align="center">
-	<a href="#sobre-o-fcalendar">Sobre o FCalendar</a> • 
+	<a href="#sobre-o-fcalendar">Sobre o Poppins</a> • 
 	<a href="#funcionalidades">Funcionalidades</a> • 
 	<a href="#layout-mobile">Layout Mobile</a> • 
 	<a href="#layout-desktop">Layout Desktop</a> • 
 	<a href="#tecnologias">Tecnologias</a> • 
-	<a href="#links-complementares">Links Complementares</a> • 
-	<a href="#quer-contribuir-para-o-projeto">Quer Contribuir para o projeto?</a> •
-	<a href="#instalacao">Instalando o FCalendar</a> •
 	<a href="#licenca">Licença</a> •
 	<a href="#autores">Autores</a> •
 	<a href="#agradecimentos">Agradecimentos</a>
