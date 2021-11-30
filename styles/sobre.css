@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*----- Main -----*/
+
+h1 {
+    text-align: center;
+    margin-top: 40px;
+    color: #6abac2;
+}
+
+ section {
+    margin-left: 17%;
+    margin-right: 17%;
+} 
+
+h2 {
+    text-align: center;
+    margin-top: 30px;
+    color: #6abac2;
+}
+
+.about {
+    margin-top: 50px;
+}
+
+.about p {
+    font-size: 15px;
+    text-align: center;
+    margin-top: 40px;
+    line-height: 28px;
+}
+
+.visao_missao_valores {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.visao_missao_valores h2 {
+    text-align: center;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 10px 0 10px;
+} 
+
+.cards div {
+    width: 30%;
+    text-align: center;
+    border: 1px solid #6abac2;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.cards div p {
+    margin-top: 15px;
+    font-size: 14px;
+    line-height: 25px;
+}
+
+h4{
+    text-align: center;
+    color: #868686;
+}
+
+.pictures {
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.associados2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.associados {
+    margin-top: 40px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.associados img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 1px solid #6abac2;
+    object-fit: cover;
+}
+
+.associados figcaption {
+    margin-top: 10px;
+    font-size: 13px;
+}
+
+section h3 {
+    text-align: center;
+    margin-top: 30px;
+    color: #6abac2;
+}
+
+
+/*----------------- Media ------------------*/
+@media screen and (max-width: 1100px) {
+
+ main {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+ .cards {
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ .cards div {
+    width: 80%;
+    flex-wrap: wrap;
+
+    margin: 10px auto;
+ }
+
+ .associados img {
+    width: 100px;
+    height: 100px;
+ }
+
+}
+
+@media screen and (max-width: 480px) {
+    
+    section {
+    margin-left: 5%;
+    margin-right: 5%;
+ }  
+
+ .associados {
+    align-items: center;
+    justify-content: center;
+ }
+
+ .associados img {
+    width: 150px;
+    height: 150px;
+ }
+
+}
