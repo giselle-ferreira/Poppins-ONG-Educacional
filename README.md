@@ -28,11 +28,15 @@ Trata-se de uma ONG fictícia com foco no aprimoramento da educação infantil, 
 
 > ## Tecnologias Utilizadas 🧰
 
+<p>
 <img align="left" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" align="left" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" align="left" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>  
 
-<br /><br />  
+<br> 
+<br>
+<br>
 
 > ## Layout Desktop 💻
 
@@ -75,16 +79,12 @@ Trata-se de uma ONG fictícia com foco no aprimoramento da educação infantil, 
 <a href="https://www.linkedin.com/in/giselleferreiras/" ><img src="https://img.shields.io/badge/-Linkedin-blue" height="26" ></a>   
 <a align="left" href="https://github.com/giselle-ferreira" ><img src="https://img.shields.io/badge/-Github-lightgrey" height="26" ></a>
 <a align="left" href="https://www.linkedin.com/in/giselleferreiras/" ><img src="https://img.shields.io/badge/-Linkedin-blue" height="26" ></a>
-</p>
+</p>  
 
-<br />
-<br />
+<br>
+<br>
 
 > ## Agradecimentos 💙
 
 Obrigado [SoulCode Academy](https://soulcodeacademy.org) pelo que nos tem proporcionado!
-
-
-
-
 
