@@ -10,7 +10,8 @@
 h1 {
     text-align: center;
     margin-top: 40px;
-    color: #6abac2;
+    font-size: 34px;
+    color: #006d77;
 }
 
  section {
@@ -21,7 +22,8 @@ h1 {
 h2 {
     text-align: center;
     margin-top: 30px;
-    color: #6abac2;
+    font-size: 34px;
+    color: #006d77;
 }
 
 .about {
@@ -98,6 +100,12 @@ h4{
     object-fit: cover;
 }
 
+.pictures h3 {
+  font-size: 34px;
+  color: #006d77;
+}
+
+
 .associados figcaption {
     margin-top: 10px;
     font-size: 13px;
@@ -127,7 +135,6 @@ section h3 {
  .cards div {
     width: 80%;
     flex-wrap: wrap;
-
     margin: 10px auto;
  }
 
