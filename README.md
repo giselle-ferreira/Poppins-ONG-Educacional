@@ -66,13 +66,13 @@ Trata-se de uma ONG fictícia com foco no aprimoramento da educação infantil, 
 
 <p align="left">
 <a href="https://github.com/giselle-ferreira" ><img src="https://img.shields.io/badge/-Github-lightgrey" height="26" ></a>
-<a href="https://www.linkedin.com/in/giselleferreiras/" ><img src="https://img.shields.io/badge/-Linkedin-blue" height="26" ></a> 
-<a href="https://github.com/giselle-ferreira" ><img src="https://img.shields.io/badge/-Github-lightgrey" height="26" ></a>
-<a href="https://www.linkedin.com/in/giselleferreiras/" ><img src="https://img.shields.io/badge/-Linkedin-blue" height="26" ></a>
+<a href="https://www.linkedin.com/in/giselleferreiras/" ><img src="https://img.shields.io/badge/-Linkedin-blue" height="26" ></a>   
+<a href="https://github.com/jubassul" ><img src="https://img.shields.io/badge/-Github-lightgrey" height="26" ></a>
+<a href="https://www.linkedin.com/in/juliabassul" ><img src="https://img.shields.io/badge/-Linkedin-blue" height="26" ></a>  
 <a href="https://github.com/giselle-ferreira" ><img src="https://img.shields.io/badge/-Github-lightgrey" height="26" ></a> 
-<a href="https://www.linkedin.com/in/giselleferreiras/" ><img src="https://img.shields.io/badge/-Linkedin-blue" height="26" ></a>
+<a href="https://www.linkedin.com/in/giselleferreiras/" ><img src="https://img.shields.io/badge/-Linkedin-blue" height="26" ></a>  
 <a href="https://github.com/giselle-ferreira" ><img src="https://img.shields.io/badge/-Github-lightgrey" height="26" ></a>
-<a href="https://www.linkedin.com/in/giselleferreiras/" ><img src="https://img.shields.io/badge/-Linkedin-blue" height="26" ></a> 
+<a href="https://www.linkedin.com/in/giselleferreiras/" ><img src="https://img.shields.io/badge/-Linkedin-blue" height="26" ></a>   
 <a align="left" href="https://github.com/giselle-ferreira" ><img src="https://img.shields.io/badge/-Github-lightgrey" height="26" ></a>
 <a align="left" href="https://www.linkedin.com/in/giselleferreiras/" ><img src="https://img.shields.io/badge/-Linkedin-blue" height="26" ></a>
 </p>
