@@ -59,7 +59,7 @@ Trata-se de uma ONG fictícia com foco no aprimoramento da educação infantil, 
 <br>  
 
 > ## Visite o Site 🔗
-> Link para o Site [Poppins]()
+> Link para o Site [Poppins](https://poppins-educacional.netlify.app/sobre.html)
 
 <br>
 <br>
