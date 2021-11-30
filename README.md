@@ -86,5 +86,5 @@ Trata-se de uma ONG fictícia com foco no aprimoramento da educação infantil, 
 
 > ## Agradecimentos 💙
 
-Obrigado [SoulCode Academy](https://soulcodeacademy.org) pelo que nos tem proporcionado!
+Obrigado [SoulCode Academy](https://soulcodeacademy.org) pelo que nos têm proporcionado!
 
