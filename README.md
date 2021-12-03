@@ -43,13 +43,8 @@ Trata-se de uma ONG fictícia com foco no aprimoramento da educação infantil, 
 
 > ## Layout 💻
 
-<img align="center" alt="Poppins" src="https://i.postimg.cc/8zScx9wC/home.jpg" width="400px" /> <img align="center" alt="Poppins" src="https://i.postimg.cc/fWSbyDrL/sobre-nos.jpg" width="400px" />
-<br>
-<img align="center" alt="Poppins" src="https://i.postimg.cc/wBBqppN9/servi-os.jpg" width="400px" /> <img align="center" alt="Poppins" src="https://i.postimg.cc/wTd9BJNf/projetos.jpg" width="400px" />
-<br>
-<img src="https://postimg.cc/Dmt4M8N5" width="500" />
+<img src="https://github.com/giselle-ferreira/Poppins-ONG-Educacional/blob/main/img/Poppins.gif" width="900" />
 
-<br>
 <br>
 <br>
 
