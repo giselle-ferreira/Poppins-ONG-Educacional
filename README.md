@@ -2,7 +2,7 @@
 <img  src="https://i.postimg.cc/kXnXcK5V/image.png" width="800" />
 </p>
 
-<h1 align="center">Poppins</h1>
+<h1 align="center"><img src="https://i.postimg.cc/RhpMgyYT/umbrella-32.png"> Poppins</h1>
 <h4 align="center">Organização Não-governamental Educacional</h4>
 
 <br>
@@ -46,6 +46,8 @@ Trata-se de uma ONG fictícia com foco no aprimoramento da educação infantil, 
 <img align="center" alt="Poppins" src="https://i.postimg.cc/8zScx9wC/home.jpg" width="400px" /> <img align="center" alt="Poppins" src="https://i.postimg.cc/fWSbyDrL/sobre-nos.jpg" width="400px" />
 <br>
 <img align="center" alt="Poppins" src="https://i.postimg.cc/wBBqppN9/servi-os.jpg" width="400px" /> <img align="center" alt="Poppins" src="https://i.postimg.cc/wTd9BJNf/projetos.jpg" width="400px" />
+<br>
+<img src="https://postimg.cc/Dmt4M8N5" width="500" />
 
 <br>
 <br>
