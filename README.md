@@ -1,3 +1,6 @@
+<p align="center">
+<img  src="https://i.postimg.cc/kXnXcK5V/image.png" width="800" />
+</p>
 
 <h1 align="center">Poppins</h1>
 <h4 align="center">Organização Não-governamental Educacional</h4>
@@ -38,25 +41,15 @@ Trata-se de uma ONG fictícia com foco no aprimoramento da educação infantil, 
 <br>
 <br>
 
-> ## Layout Desktop 💻
+> ## Layout 💻
 
-<img align="left" alt="Poppins" src="" width="200px" />
-<img align="left" alt="Poppins" src="" width="200px" />
-<img align="left" alt="Poppins" src="" width="200px" />
-
+<img align="center" alt="Poppins" src="https://i.postimg.cc/8zScx9wC/home.jpg" width="400px" /> <img align="center" alt="Poppins" src="https://i.postimg.cc/fWSbyDrL/sobre-nos.jpg" width="400px" />
 <br>
-<br>
-<br>
-
-> ## Layout Mobile 📱
-> 
-<img align="left" alt="Poppins" src="" width="200px" />
-<img align="left" alt="Poppins" src="" width="200px" />
-<img align="left" alt="Poppins" src="" width="200px" />
+<img align="center" alt="Poppins" src="https://i.postimg.cc/wBBqppN9/servi-os.jpg" width="400px" /> <img align="center" alt="Poppins" src="https://i.postimg.cc/wTd9BJNf/projetos.jpg" width="400px" />
 
 <br>
 <br>
-<br>  
+<br>
 
 > ## Visite o Site 🔗
 > Link para o Site [Poppins](https://poppins-educacional.netlify.app/sobre.html)
